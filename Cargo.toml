@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 cgmath = "0.17.0"
 num-traits = "0.2.8"
-derive-getters = "0.0.8"
+derive-getters = "0.1.0"
