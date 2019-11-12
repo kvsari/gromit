@@ -7,6 +7,8 @@ use std::mem;
 use derive_getters::Getters;
 
 pub mod geop;
+pub mod bunch;
+pub mod numeric;
 
 /// Final vertex data ready for consumption by the video device. A vector of these will be
 /// the last step in getting some arbitrary geometry loaded in video memory for rendering.
